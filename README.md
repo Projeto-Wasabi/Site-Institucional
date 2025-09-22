@@ -1,1 +1,1 @@
-# Simulador Financeiro Hikari Wasabi
+# Projeto Hikari Wasabi
