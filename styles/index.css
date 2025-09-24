@@ -4,7 +4,7 @@ body {
 }
 
 .section_home, .section_wasabi, .section_simulacao, .section_quemSomos, .section_contato {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .navbar {
